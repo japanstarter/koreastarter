@@ -1,0 +1,11 @@
+{
+  "name": "koreastarter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Calm, practical travel planning for South Korea \u2014 KTX trains, T-money, itineraries, and all 3,651 cities, districts & towns.",
+  "scripts": {
+    "build": "node build.mjs",
+    "Start": "node build.mjs"
+  }
+}
